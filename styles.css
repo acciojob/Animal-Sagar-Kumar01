@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+#animal-photos {
+  width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+#animal-photos h1 {
+  text-align: center;
+}
+
+#animal-photos img {
+  border:1px solid black;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  margin: 5px;
+}
